@@ -1,7 +1,5 @@
 Class Names{
 	public static void main(String[] ergs){
 	System.out.println("The file names.txt is printed");
-	int a = nextInt();
-	int b = next();
 	}
 }
